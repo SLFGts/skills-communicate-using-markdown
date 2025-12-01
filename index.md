@@ -3,3 +3,8 @@
 <这是啥>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+public static void main(){
+}
+```
